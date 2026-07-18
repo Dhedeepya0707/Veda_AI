@@ -1,0 +1,6 @@
+{
+  "name": "Technology Genome AI",
+  "description": "Enterprise Engineering Design Evolution Platform for automotive OEMs and R&D teams to design, simulate, and evolve vehicle technologies with real-time AI dependency and performance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
